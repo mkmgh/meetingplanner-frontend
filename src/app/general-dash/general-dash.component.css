@@ -1,0 +1,52 @@
+h3 {
+    margin: 0 0 10px;
+}
+  
+pre {
+    background-color: #f5f5f5;
+    padding: 15px;
+}
+
+.header{
+    background-color:#b44c55;
+    color: white;
+    padding: 2%;
+    text-align: center;
+}
+
+.header1{
+    background-color:#181617;
+    color: white;
+    padding: 2%;
+    text-align: center;
+}
+
+
+.navbar{
+    cursor: pointer;
+}
+
+
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.42;
+    border-radius: 15px;
+}
+  
+.btn-circle.btn-lg {
+    width: 50px;
+    height: 50px;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 25px;
+}
+   
+.own-navbar{
+    padding-bottom: 1vh;
+}
