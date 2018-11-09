@@ -559,7 +559,7 @@ var AppService = /** @class */ (function () {
     function AppService(http) {
         var _this = this;
         this.http = http;
-        this.url = 'http://localhost:3008';
+        this.url = 'http://api-meetingplannerapp.emayurm.in.net';
         this.baseURL = this.url + "/api/v1";
         this.getUserInfoFromLocalstorage = function () {
             return JSON.parse(localStorage.getItem('userInfo'));
@@ -1566,7 +1566,7 @@ var SocketService = /** @class */ (function () {
     function SocketService(http) {
         var _this = this;
         this.http = http;
-        this.baseurl = "http://localhost:3008";
+        this.baseurl = "http://api-meetingplannerapp.emayurm.in.net";
         //Authentication Section:
         this.verifyUser = function () {
             return rxjs__WEBPACK_IMPORTED_MODULE_1__["Observable"].create(function (observer) {
