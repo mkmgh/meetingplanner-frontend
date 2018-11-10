@@ -33,7 +33,7 @@ Note : You can skip this steps if you have Node ,npm and angularCLI installed on
 ### Installing/ Running locally
 
 
-1) Create a folder named as letsmeet-app at any local drive
+1) Create a folder named as meetingplannerapp at any local drive
 
 2) change directory to letsmeet-app
 
@@ -48,7 +48,7 @@ Note : You can skip this steps if you have Node ,npm and angularCLI installed on
 ```
 
 ```
->git remote add origin https://github.com/ShahrukhSayyed/letsmeet-frontend.git
+>git remote add origin https://github.com/mkmgh/meetingplanner-frontend.git
 ```
 
 ```
@@ -70,7 +70,7 @@ Note : You can skip this steps if you have Node ,npm and angularCLI installed on
 6) Navigate to http://localhost:4200/ via browser . You will see the application is running.
 
 
-* [Demo](http://meetingplannerapp.emayurm.in.net) - Application is up and running here
+* [LiveLink](http://meetingplannerapp.emayurm.in.net) - Application has be hosted.
 
 ## Screenshots of Application
 
@@ -173,7 +173,7 @@ code for mobile number (like 91 for India) will be automatically selected after 
 ## Authors
 
 * **Mayur Mahamune** - *Initial work* - [MayurMahamune](https://github.com/mkmgh)
-* **Edwisor** - *Problem Statement* - [Edwisor](https://www.edwisor.com)
+* **Edwisor** - *Problem Statement* - [Edwisor](https://s3-ap-southeast-1.amazonaws.com/edwisor-india-bucket/projects/web/web03/Web030102+-+Meeting+Planner.pdf)
 
 ## License
 
