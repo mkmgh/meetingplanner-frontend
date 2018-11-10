@@ -160,7 +160,7 @@ code for mobile number (like 91 for India) will be automatically selected after 
 - All the APIs and Events are well documented using npm module apiDoc 
 
 * [APIDOC](http://meetingplannerapp-api-doc.emayurm.in.net/) - APIDOC of Meeting Planner backend
-* [EventDoc](http://meetingplannerapp-event-doc.emayurm.in.net/) - EventDoc of Meeting Planner Application backend
+* [EventDoc](http://meetingplannerapp-event-doc.emayurm.in.net/) - EventDoc of Meeting Planner Application.
 
 ## Built With
 
@@ -174,10 +174,6 @@ code for mobile number (like 91 for India) will be automatically selected after 
 
 * **Mayur Mahamune** - *Initial work* - [MayurMahamune](https://github.com/mkmgh)
 * **Edwisor** - *Problem Statement* - [Edwisor](https://s3-ap-southeast-1.amazonaws.com/edwisor-india-bucket/projects/web/web03/Web030102+-+Meeting+Planner.pdf)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detailsg
 
 ## Acknowledgments
 
