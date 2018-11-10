@@ -35,7 +35,7 @@ Note : You can skip this steps if you have Node ,npm and angularCLI installed on
 
 1) Create a folder named as meetingplannerapp at any local drive
 
-2) change directory to letsmeet-app
+2) change directory to meetingplannerapp
 
 ```
 >cd meetingplannerapp
@@ -70,7 +70,7 @@ Note : You can skip this steps if you have Node ,npm and angularCLI installed on
 6) Navigate to http://localhost:4200/ via browser . You will see the application is running.
 
 
-* [LiveLink](http://meetingplannerapp.emayurm.in.net) - Application has be hosted.
+* [LiveLink](http://meetingplannerapp.emayurm.in.net) - Application has been hosted.
 
 ## Screenshots of Application
 
