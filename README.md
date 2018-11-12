@@ -177,5 +177,5 @@ code for mobile number (like 91 for India) will be automatically selected after 
 
 ## Acknowledgments
 
-* Thanks for Edwisor to review this application.
+* Thanks Edwisor for helping to improve my skills.
 * I would like to thank my friends,colleagues for supporting me to develop this Application.
