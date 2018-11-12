@@ -169,6 +169,16 @@ code for mobile number (like 91 for India) will be automatically selected after 
 * [nodemailer](https://nodemailer.com/about/) - NPM module to send the mails
 * [apiDoc](http://apidocjs.com/) - NPM module to create the apiDoc and eventDoc
 
+## Demo credentials for testing
+For Admin
+
+  UserName: mayurmahamune7@gmail.com
+  Password: Mayur@12
+
+For General User
+
+  UserName: yashrajmahamune154@outlook.com
+  Password: Yashraj@12
 
 ## Authors
 
